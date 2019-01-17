@@ -12,6 +12,12 @@
 
   [교안 ppt](http://cv.jbnu.ac.kr/index.php?mid=ml)
 
+- 모두의 딥러닝 (김성훈) 
+
+  [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
+
+  
+
 - 주제마다 각 Ref 참고
 
 
@@ -51,7 +57,7 @@
 
      
 
-- **2회차 (1/24)** : 4명 KNN/Logistic,Linear Regression,/N-B/SVM
+- **2회차 (1/24)** : 4명 KNN/N-B/SVM/Regression
 
   3. Supervised Learning : Classification and Regression 
 
@@ -63,18 +69,29 @@
 
 - **3회차 (1/31)** : (2명)
 
-  4. Model Evaluation(classification )
+  ​	<예습 :  기본배경지식 - 용어>
+
+  4. Model Evaluation(classification ) 
 
      - Evaluation Methods
-     - Model Tuning
+
+       - Hold-out
+
+       - Cross Validation
+
+         
+
      - Evaluation Metrics(confusion matrix, ROC, AUC)
+
      - Evaluation Metrics(분산, MAE, R2)
 
      <과제 1 : classification data 분석 ~2/7 4회차 스터디 때까지>
 
      
 
-- **4회차(2/7)** : 2명
+- **4회차(2/7)** : 1명 ()
+
+  - 과제 1 결과공유 
 
   5. Unsupervised Learning : Clustering
      - K-means clustering
@@ -86,7 +103,7 @@
 
      
 
-- **5회차(2/14)** : 2명 (전윤회)
+- **5회차(2/14)** : 2명 () 통계 bas 이신 분들이면 좋을 것 같아요!
 
   7. Dimensionality Reduction
 
@@ -109,9 +126,17 @@
 
 
 
-- **7회차(2/28)** 2명
-  9. GAN
-  10. RNN (LSTM, GRU) (https://d2.naver.com/news/0956269)
+- **7회차(2/28)** 3명
+
+  <예습 : NN  퍼셉트론, 다층 퍼셉트론>
+
+  9. CNN
+
+  10. GAN
+
+  11. RNN
+
+      (LSTM, GRU) (https://d2.naver.com/news/0956269)
 
 ------
 

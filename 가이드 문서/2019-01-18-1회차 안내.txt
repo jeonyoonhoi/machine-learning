@@ -1,0 +1,21 @@
+<1일차 스터디 안내>
+1.  깃허브에 자료를 정리해두겠습니다 :) 
+https://github.com/jeonyoonhoi/machine-learning
+
+2. 예습: 
+개발환경세팅 (anaconda + jupyter notebook) 준비해주세요 (1일차에 진행하려 했는데 이미 환경이 있으신 분들이 있어서 개별준비 부탁드립니다)
+- 이미 구글에 자료가 많아서 따로 정리는 안해드리는데 혹시 안되시면 갠톡주세요!
+
+모두의 딥러닝 : 이동시간에 2배속 해서 가볍게 듣고 와주시면 됩니다! 
+ML lec 01) https://youtu.be/qPMeuL2LIqY(12분)
+ML lec 02)https://youtu.be/Hax03rCn3UI (14분)
+
+가이드문서 / 1. Introduction 
+1일차 스터디 진행할 내용입니다. 
+큰 제목만 달아두었습니다. 
+빈칸 채워오신다고 생각하고 시간 잡고 예습해주세요! 
+
+3. 1일차 안내
+- Introduction  (전윤회)
+-  Data preprocessiong
+- 스터디 수업 담당 날짜 설정 
