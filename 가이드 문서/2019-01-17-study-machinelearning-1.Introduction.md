@@ -33,7 +33,7 @@ comments: true
 
 #### Tom Mitchell, 1977
 
-A computer program is said to learn from <u>experience E</u> with respect to some <u>task T</u> and some performance measure P, if its performance on T, as measured by P improves with experience E. 
+A computer program is said to learn from <u>experience E</u> with respect to some <u>task T</u> and some performance measure P, if its performance on T, as measured by P improves with expnerience E. 
 
 예시로 스팸메일을 필터링 하는 특정 컴퓨터 프로그램을 들겠습니다. 이 프로그램은 경험을 통해 학습합니다. Experience, 여기서의 경험은 과거의 스팸메일과 일반적인 메일들의 예시, 즉 학습에 사용되는 데이터라고도 볼 수 있습니다. 이 경험은 특정 Task, 스    팸 메일을 예측에 대한 것입니다. 또한 스팸메일을 얼마나 정확하게 분류해내는가에 대한 정확도 혹은 성능을 나타내는 것이 Perfomance measure P 입니다. 작업에 대한 성능은 경험으로 인해 향상됩니다.  이때 사람이 할 일은 프로그램, 머신러닝 알고리즘을 어떻게 만들 것인지를 고민해야 합니다. 
 
@@ -176,7 +176,15 @@ A computer program is said to learn from <u>experience E</u> with respect to som
 
    - 알파고가 대표적인 예시 
 
+   - Dev 쿠키런
 
+     [설명](https://www.youtube.com/watch?v=NGGO0zdzhVQ)
+
+     [Slideshare](https://www.slideshare.net/deview/ai-67608549)
+
+     [데모영상](https://www.youtube.com/watch?v=exXD6wJLJ6s)
+
+     
 
 - 데이터가 한번에 주어지는지 점진적으로 주어지는지에 따라
 
@@ -204,6 +212,8 @@ A computer program is said to learn from <u>experience E</u> with respect to som
 1. 전처리(Preprocessing)
 
     실제 세상의 데이터는 Incomplete (불완전, 값이 없음), Noisy(error, outlier), inconsistent(일관성 없는 데이터TF 10) 등의 특징을 지닌다. 
+
+    
 
 2. 학습(Learning) 
 

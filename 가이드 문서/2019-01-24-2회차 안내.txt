@@ -1,23 +1,27 @@
 <2일차 스터디 안내>
+
 1. 각자 맡으신 부분 수업 준비 해주세요
 - ppt든 워드문서든 같이 공부할 수 있도록 
-4명 KNN/Logistic,Linear Regression,/N-B/SVM
-Supervised Learning : Classification and Regression
-Classification (KNN, Trees, Logistic Regression, Naive-Bayes, SVM)
-Linear Regression
+KNN(전은정,조문기),
+/N-B(신광욱,유응규)
+/SVM(지현이,현오주)
+/Regression(나지혜,이지인)
+/Decision Tree(이가경)
 
 2. 예습: 
-모두의 딥러닝 : 이동시간에 2배속 해서 가볍게 듣고 와주시면 됩니다! 
+모두의 딥러닝 : 
 Linear Regression 
 - ML lec 03) (16분) (18분)
 - ML lec 04) (17분)
-가이드문서 
+오일석 기계학습 강의  
 
 3. 복습 
 Logistic Regression
-- ML lec 05) (15분) (15분)
-Softmax Regression
+ - ML lec 05) (15분) (15분)
+Softmax Regression 
 - ML lec 06 (10분) (15분)
 
-파이썬 코드 실습 해보기(노트북 파일 첨부 확인)
+- 파이썬 코드 실습 해보기(노트북 파일 첨부 확인)
+스터디자료 / 실습 /
+ Classification, Regression 
 
