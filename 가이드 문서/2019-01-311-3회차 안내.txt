@@ -1,0 +1,34 @@
+
+<3회차 스터디 안내>
+1. 3회차 (1/31) :  Model Evaluation(classification) 
+담당 : 유응규 나지혜 
+- Evaluation Methods
+  - Hold-out
+  - Cross Validation
+담당 : 이지인 산광욱
+- Evaluation Metrics(confusion matrix, ROC, AUC)
+- Evaluation Metrics(분산, MAE, R2)
+
+2. 예습: 
+모두의 딥러닝 : 모델평가 
+- ML lec 03) (16분) (18분)
+- ML lec 04) (17분)
+가이드문서 
+
+3. 복습 
+파이썬 코드 실습 해보기(노트북 파일 첨부 확인)
+스터디자료 / 실습/Evaluation 
+
+4. 과제 (마감기한 : 2/7까지)
+(1) 스터디자료 / 실습 / Data Preprocession 
+      위 실습자료 공부해보기 
+
+(2) 아래 두 과제중 취사선택! 2-1 권장!
+ 2-1 어려우시면 2-2 하시면 됩니다. 
+(2-1) 과제/all/에 있는 데이터  전처리 해서 지금까지 배운 모델로 돌려보기 
+(기존 파이썬 코드 참조하면 모델 학습은 별로 어렵지 않습니다!)
+( 배운 것 까지만 참고한다고 생각하고 해주세요) 
+
+(2-2) Titanic kaggle 분석따라하기
+아래 주어진 자료 보고 분석 과정을 따라 해보세요
+
