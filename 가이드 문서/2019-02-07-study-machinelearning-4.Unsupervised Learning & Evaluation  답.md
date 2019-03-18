@@ -7,32 +7,20 @@ tags: machinelearning
 comments: true
 ---
 
-# 4회차(2/7) 
-(1) Unsupervised learning and evaluation
+4회차(2/7) : 1명 (조문기)(지현이)
 
-- 담당 : (조문기)(지현이)
+- 과제 1 결과공유 
 
-  K-means clustering
-  Hierarchical clustering
-  DBSCAN(Density-based spatial clustering of application with noise)
-  Spectral Clustring
-  Evaluation (Clustering)
+1. Unsupervised Learning : Clustering
 
-  (2) 숙제 공유
-  해오셔야 공유 가능합니다!
+   - K-means clustering
+   - Hierarchical clustering
+   - DBSCAN(Density-based spatial clustering of application with noise)
+   - Spectral Clustring
 
+2. Evaluation (Clustering)
 
-3. 예습
-- 오일석 기계학습 (6.1~6.4) 강의 (1시간정도)
-  (다음주랑도 연결되는 강의이기 때문에 관련된 부분까지만 들어오셔도 무방합니다)
-  [youtube 강의](https://www.youtube.com/watch?v=aVWilK1bee4&list=PLSB4-69yY3od7cw1naXNgUsbdph6A3Aw7&index=15)
-- 아래 링크 글
-  [DBSCAN](https://bcho.tistory.com/1205)
-
-4. 복습
-
-  machine-learning/스터디자료/실습/clustering
-  파이썬 코드 복습하기, 내용복습하기 
+   <숙제 :  모델 복습 및 코드 작성>
 
 # REF
 

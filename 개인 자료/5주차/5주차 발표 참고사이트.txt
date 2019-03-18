@@ -1,0 +1,15 @@
+https://ko.wikipedia.org/wiki/%ED%96%89%EB%A0%AC%EC%8B%9D    //행렬식
+
+https://wikidocs.net/4049 // 행렬식의 기하학적 의미
+
+https://ratsgo.github.io/linear%20algebra/2017/05/21/determinants/       // 행렬식
+
+https://wikidocs.net/4050 // 고유값과 고유벡터의 기하학적 의미
+
+https://wikidocs.net/5957 // Linear discriminant analysis
+
+https://wikidocs.net/6957 // 상관계수와 내적
+
+https://wikidocs.net/7646 // PCA
+
+https://m.blog.naver.com/enewltlr/220918689039  // 미분
